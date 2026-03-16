@@ -38,7 +38,24 @@ user 가 G 키를 누르면 컬러 영상이 흑백 영상으로 변환되며,
 # 실행 화면
 아래는 프로그램 실행 화면이다.
 
+### Preview Mode
+프로그램 실행 후 기본 화면이다.
 
+![Preview](preview.png)
+
+---
+
+### Recording Mode
+Space 키를 누르면 녹화 모드로 전환되며 REC 표시와 빨간 원이 나타난다.
+
+![Recording](recording.png)
+
+---
+
+### Black & White Filter
+G 키를 누르면 흑백 필터가 적용된다.
+
+![Grayscale](grayscale.png)
 
 
 
